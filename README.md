@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Muhariefliman
 - 👀 I’m interested in Web and Mobile Developer
-- 🌱 I’m currently learning Laravel Frameworks and Flutter
+- 🌱 I’m currently learning about API using Node
 - 📫 How to reach me Muhamad Arief Liman on LinkedIn
 
 <!---
